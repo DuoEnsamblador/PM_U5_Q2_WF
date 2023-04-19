@@ -13,7 +13,7 @@ namespace PM_U5_Q2_WF
 {
     public partial class Form1 : Form
     {
-        [DllImport(@"C:\Users\EMMANUEL\source\repos\Dll_PM_U5_Q2\Debug\Dll_PM_U5_Q2.dll")]
+        [DllImport(@"C:\Users\Usuario\Downloads\microooo\unidad 5\Dll_PM_U5_EQ2\Debug\Dll_PM_U5_Q2.dll")]
 
         static extern int suma(int x, int y);
         public Form1()
@@ -42,6 +42,11 @@ namespace PM_U5_Q2_WF
         }
 
         private void txtA_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbA_Click(object sender, EventArgs e)
         {
 
         }

@@ -72,6 +72,7 @@ namespace PM_U5_Q2_WF
             this.lbA.Size = new System.Drawing.Size(40, 31);
             this.lbA.TabIndex = 3;
             this.lbA.Text = "A:";
+            this.lbA.Click += new System.EventHandler(this.lbA_Click);
             // 
             // label1
             // 
