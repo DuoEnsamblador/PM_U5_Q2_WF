@@ -1,0 +1,10 @@
+C:\Users\EMMANUEL\source\repos\PM_U5_Q2_WF\PM_U5_Q2_WF\bin\Debug\PM_U5_Q2_WF.exe.config
+C:\Users\EMMANUEL\source\repos\PM_U5_Q2_WF\PM_U5_Q2_WF\bin\Debug\PM_U5_Q2_WF.exe
+C:\Users\EMMANUEL\source\repos\PM_U5_Q2_WF\PM_U5_Q2_WF\bin\Debug\PM_U5_Q2_WF.pdb
+C:\Users\EMMANUEL\source\repos\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.csproj.AssemblyReference.cache
+C:\Users\EMMANUEL\source\repos\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.Form1.resources
+C:\Users\EMMANUEL\source\repos\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.Properties.Resources.resources
+C:\Users\EMMANUEL\source\repos\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.csproj.GenerateResource.cache
+C:\Users\EMMANUEL\source\repos\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.csproj.CoreCompileInputs.cache
+C:\Users\EMMANUEL\source\repos\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.exe
+C:\Users\EMMANUEL\source\repos\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.pdb
