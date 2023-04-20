@@ -37,6 +37,8 @@ namespace PM_U5_Q2_WF
             this.Resultado = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.btnSumar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -82,7 +84,7 @@ namespace PM_U5_Q2_WF
             // btn_multiplicar
             // 
             this.btn_multiplicar.BackColor = System.Drawing.Color.BlanchedAlmond;
-            this.btn_multiplicar.Location = new System.Drawing.Point(108, 296);
+            this.btn_multiplicar.Location = new System.Drawing.Point(33, 283);
             this.btn_multiplicar.Name = "btn_multiplicar";
             this.btn_multiplicar.Size = new System.Drawing.Size(137, 48);
             this.btn_multiplicar.TabIndex = 4;
@@ -92,7 +94,7 @@ namespace PM_U5_Q2_WF
             // 
             // Resultado
             // 
-            this.Resultado.Location = new System.Drawing.Point(512, 303);
+            this.Resultado.Location = new System.Drawing.Point(645, 295);
             this.Resultado.Multiline = true;
             this.Resultado.Name = "Resultado";
             this.Resultado.Size = new System.Drawing.Size(93, 36);
@@ -114,12 +116,31 @@ namespace PM_U5_Q2_WF
             // 
             this.label4.Font = new System.Drawing.Font("Palatino Linotype", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.Black;
-            this.label4.Location = new System.Drawing.Point(291, 303);
+            this.label4.Location = new System.Drawing.Point(408, 295);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(205, 28);
             this.label4.TabIndex = 7;
             this.label4.Text = "EL RESULTADO ES:";
             this.label4.Click += new System.EventHandler(this.label4_Click);
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(33, 366);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(157, 47);
+            this.button1.TabIndex = 8;
+            this.button1.Text = "R E S T A";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            // 
+            // btnSumar
+            // 
+            this.btnSumar.Location = new System.Drawing.Point(197, 283);
+            this.btnSumar.Name = "btnSumar";
+            this.btnSumar.Size = new System.Drawing.Size(152, 48);
+            this.btnSumar.TabIndex = 9;
+            this.btnSumar.Text = "S U M A R";
+            this.btnSumar.UseVisualStyleBackColor = true;
             // 
             // Form2multi
             // 
@@ -127,6 +148,8 @@ namespace PM_U5_Q2_WF
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.PowderBlue;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnSumar);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.Resultado);
@@ -153,5 +176,7 @@ namespace PM_U5_Q2_WF
         private System.Windows.Forms.TextBox Resultado;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnSumar;
     }
 }

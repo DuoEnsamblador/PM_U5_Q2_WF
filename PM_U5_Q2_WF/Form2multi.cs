@@ -13,9 +13,16 @@ namespace PM_U5_Q2_WF
 {
     public partial class Form2multi : Form
     {
-        [DllImport(@"C:\Users\Usuario\Downloads\microooo\unidad 5\Dll_PM_U5_EQ2\Debug\Dll_PM_U5_Q2.dll")]
+        [DllImport(@"D:\GitHub\prueba_dll_operaciones\Dll_PM_U5_EQ2\Debug\Dll_PM_U5_Q2.dll")]
 
         static extern int multiplicacion(int x, int y);
+
+        [DllImport(@"D:\GitHub\prueba_dll_operaciones\Dll_PM_U5_EQ2\Debug\Dll_PM_U5_Q2.dll")]
+        static extern int resta(int x, int y);
+
+        [DllImport(@"D:\GitHub\prueba_dll_operaciones\Dll_PM_U5_EQ2\Debug\Dll_PM_U5_Q2.dll")]
+        static extern int sumar(int x, int y);
+
         public Form2multi()
         {
             InitializeComponent();
@@ -70,6 +77,16 @@ namespace PM_U5_Q2_WF
         private void label4_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            int a = Convert.ToInt32(texto1.Text);
+            int b = Convert.ToInt32(texto2.Text); ;
+
+            int r = resta(a, b);
+
+            Resultado.Text = r.ToString();
         }
     }
 }
