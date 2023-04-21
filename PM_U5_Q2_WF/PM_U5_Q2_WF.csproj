@@ -64,6 +64,12 @@
     <Compile Include="FormCadena.Designer.cs">
       <DependentUpon>FormCadena.cs</DependentUpon>
     </Compile>
+    <Compile Include="PC12023_1_PromUsuario_.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PC12023_1_PromUsuario_.Designer.cs">
+      <DependentUpon>PC12023_1_PromUsuario_.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -74,6 +80,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormCadena.resx">
       <DependentUpon>FormCadena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PC12023_1_PromUsuario_.resx">
+      <DependentUpon>PC12023_1_PromUsuario_.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
