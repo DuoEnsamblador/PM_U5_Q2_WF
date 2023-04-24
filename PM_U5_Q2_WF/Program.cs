@@ -16,7 +16,7 @@ namespace PM_U5_Q2_WF
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PC12023_1_PromUsuario_());
+            Application.Run(new Form2multi());
         }
     }
 }

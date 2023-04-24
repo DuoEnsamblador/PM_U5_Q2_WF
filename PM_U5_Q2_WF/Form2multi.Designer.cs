@@ -39,6 +39,7 @@ namespace PM_U5_Q2_WF
             this.label4 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.btnSumar = new System.Windows.Forms.Button();
+            this.btn_division = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -141,6 +142,17 @@ namespace PM_U5_Q2_WF
             this.btnSumar.TabIndex = 9;
             this.btnSumar.Text = "S U M A R";
             this.btnSumar.UseVisualStyleBackColor = true;
+            this.btnSumar.Click += new System.EventHandler(this.btnSumar_Click);
+            // 
+            // btn_division
+            // 
+            this.btn_division.Location = new System.Drawing.Point(213, 366);
+            this.btn_division.Name = "btn_division";
+            this.btn_division.Size = new System.Drawing.Size(136, 47);
+            this.btn_division.TabIndex = 10;
+            this.btn_division.Text = "D I V I S I O N";
+            this.btn_division.UseVisualStyleBackColor = true;
+            this.btn_division.Click += new System.EventHandler(this.button2_Click);
             // 
             // Form2multi
             // 
@@ -148,6 +160,7 @@ namespace PM_U5_Q2_WF
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.PowderBlue;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btn_division);
             this.Controls.Add(this.btnSumar);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label4);
@@ -178,5 +191,6 @@ namespace PM_U5_Q2_WF
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnSumar;
+        private System.Windows.Forms.Button btn_division;
     }
 }
