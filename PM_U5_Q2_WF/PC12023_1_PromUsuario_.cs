@@ -13,11 +13,11 @@ namespace PM_U5_Q2_WF
 {
     public partial class PC12023_1_PromUsuario_ : Form
     {
-        [DllImport(@"C:\Users\Usuario\Downloads\microooo\unidad 5\Dll_PM_U5_EQ2\Debug\Dll_PM_U5_Q2.dll")]
+        [DllImport(@"D:\GitHub\prueba_dll_operaciones\Dll_PM_U5_EQ2\Debug\Dll_PM_U5_Q2.dll")]
 
         static extern int promedioDeUsuario(string str , int cal1,int cal2 , int cal3);
 
-        [DllImport(@"C:\Users\Usuario\Downloads\microooo\unidad 5\Dll_PM_U5_EQ2\Debug\Dll_PM_U5_Q2.dll")]
+        [DllImport(@"D:\GitHub\prueba_dll_operaciones\Dll_PM_U5_EQ2\Debug\Dll_PM_U5_Q2.dll")]
 
         static extern int promUsuario(StringBuilder strRes, string str, int cal1, int cal2, int cal3);
        

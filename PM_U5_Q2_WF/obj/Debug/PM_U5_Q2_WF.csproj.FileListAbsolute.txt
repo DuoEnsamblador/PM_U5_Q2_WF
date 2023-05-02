@@ -21,7 +21,6 @@ C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\P
 D:\GitHub\prueba_dll_operaciones\PM_U5_Q2_WF\PM_U5_Q2_WF\bin\Debug\PM_U5_Q2_WF.exe.config
 D:\GitHub\prueba_dll_operaciones\PM_U5_Q2_WF\PM_U5_Q2_WF\bin\Debug\PM_U5_Q2_WF.exe
 D:\GitHub\prueba_dll_operaciones\PM_U5_Q2_WF\PM_U5_Q2_WF\bin\Debug\PM_U5_Q2_WF.pdb
-D:\GitHub\prueba_dll_operaciones\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.csproj.AssemblyReference.cache
 D:\GitHub\prueba_dll_operaciones\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.Form1.resources
 D:\GitHub\prueba_dll_operaciones\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.Form2multi.resources
 D:\GitHub\prueba_dll_operaciones\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.Properties.Resources.resources
@@ -35,3 +34,5 @@ C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\P
 C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.PC12023_1_PromUsuario_.resources
 C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.csproj.AssemblyReference.cache
 C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.PC12023_1variante.resources
+D:\GitHub\prueba_dll_operaciones\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.PC12023_1variante.resources
+D:\GitHub\prueba_dll_operaciones\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.csproj.AssemblyReference.cache
