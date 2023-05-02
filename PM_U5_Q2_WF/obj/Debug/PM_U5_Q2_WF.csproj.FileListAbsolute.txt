@@ -11,7 +11,6 @@ C:\Users\EMMANUEL\source\repos\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.pdb
 C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\bin\Debug\PM_U5_Q2_WF.exe.config
 C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\bin\Debug\PM_U5_Q2_WF.exe
 C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\bin\Debug\PM_U5_Q2_WF.pdb
-C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.csproj.AssemblyReference.cache
 C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.Form1.resources
 C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.Properties.Resources.resources
 C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.csproj.GenerateResource.cache
@@ -34,3 +33,5 @@ D:\GitHub\prueba_dll_operaciones\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.F
 D:\GitHub\prueba_dll_operaciones\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.PC12023_1_PromUsuario_.resources
 C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.FormCadena.resources
 C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.PC12023_1_PromUsuario_.resources
+C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.PC12023_1variante.resources

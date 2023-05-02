@@ -16,30 +16,35 @@ namespace PM_U5_Q2_WF
         [DllImport(@"C:\Users\Usuario\Downloads\microooo\unidad 5\Dll_PM_U5_EQ2\Debug\Dll_PM_U5_Q2.dll")]
 
         static extern int promedioDeUsuario(string str , int cal1,int cal2 , int cal3);
-        public PC12023_1_PromUsuario_()
+
+        [DllImport(@"C:\Users\Usuario\Downloads\microooo\unidad 5\Dll_PM_U5_EQ2\Debug\Dll_PM_U5_Q2.dll")]
+
+        static extern int promUsuario(StringBuilder strRes, string str, int cal1, int cal2, int cal3);
+       
+
+            public PC12023_1_PromUsuario_()
         {
             InitializeComponent();
         }
 
         private void PC12023_1_PromUsuario__Load(object sender, EventArgs e)
         {
-            string nombre;
-            int cal1;
-            int cal2;
-            int cal3;
-            string cadenaResultado;
+            
 
-            nombre = "Secuestrador";
-            cal1 = 8;
-            cal2 = 9;
-            cal3 = 10;
+        }
 
-            int p = promedioDeUsuario(nombre, cal1, cal2, cal3);
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string nombre = "Garuco";
+            int nota1 = 5;
+            int nota2 = 6;
+            int nota3 = 9;
 
-            cadenaResultado = nombre + " El promedio es: " + p.ToString();
+            StringBuilder sb = new StringBuilder(100);
+            int largo = promUsuario(sb, nombre, nota1, nota2, nota3);
+            string mensaje = sb.ToString().Substring(0, largo);
 
-            MessageBox.Show(cadenaResultado);
-
+            MessageBox.Show(mensaje);
         }
     }
 }
