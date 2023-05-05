@@ -35,4 +35,5 @@ C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\P
 C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.csproj.AssemblyReference.cache
 C:\Users\Usuario\Downloads\microooo\unidad 5\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.PC12023_1variante.resources
 D:\GitHub\prueba_dll_operaciones\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.PC12023_1variante.resources
+D:\GitHub\prueba_dll_operaciones\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.PC_2023_2_Velocidad.resources
 D:\GitHub\prueba_dll_operaciones\PM_U5_Q2_WF\PM_U5_Q2_WF\obj\Debug\PM_U5_Q2_WF.csproj.AssemblyReference.cache

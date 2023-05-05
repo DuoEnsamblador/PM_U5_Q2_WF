@@ -30,14 +30,15 @@ namespace PM_U5_Q2_WF
         private void button1_Click_1(object sender, EventArgs e)
         {
             StringBuilder sb = new StringBuilder(100);
+            int velo = Convert.ToInt32(txtVelocidad.Text);
+            int distan = Convert.ToInt32(txtDistancia.Text);
 
-            
-           // int r = multiplicacion(a, b);
+            // int r = multiplicacion(a, b);
 
             //Resultado.Text = r.ToString();
-            
 
-            int resultado = Calculartiempo(sb, 90, 500);
+
+            int resultado = Calculartiempo(sb, velo, distan);
             //string c = sb.ToString();
             //c = c.Substring(0, resultado);
 
