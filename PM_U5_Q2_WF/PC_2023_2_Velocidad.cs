@@ -21,18 +21,19 @@ namespace PM_U5_Q2_WF
             InitializeComponent();
         }
 
+        StringBuilder sb;
+
         private void PC_2023_2_Velocidad_Load(object sender, EventArgs e)
         {
-
+            sb = new StringBuilder(100);
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            StringBuilder sb = new StringBuilder(100);
-            int largo = velocidad(sb, "Coche Azul",1267 ,2);
-            string c = sb.ToString();
+            sb.Clear();
+            int largo = velocidad(sb, "Coche Azul",120 ,2);
+               string c = sb.ToString();
             c = c.Substring(0, largo);
-
             MessageBox.Show(c);
         }
     }
